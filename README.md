@@ -28,7 +28,7 @@ These instructions will help you set up and run the project on your local machin
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/Spring-Security-Oauth2-Github.git
+    git clone https://github.com/pwnmahto/Spring-Security-Oauth2-Github.git
     cd Spring-Security-Oauth2-Github
     ```
 
